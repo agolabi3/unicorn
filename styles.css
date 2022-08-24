@@ -49,6 +49,8 @@ table {
 /*CSS style by Aryanna*/
 h1{
     font-weight: bold;
-    font-size: 3em;
-    
+    font-size: 3em;   
+}
+h2{
+    color: pink;
 }
